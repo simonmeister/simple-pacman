@@ -1,2 +1,15 @@
-# simple-snake-game
-Very simple implementation of the classical snake game written in java.
+# Pacman
+Simple implementation of the classical Pacman game written in java. 
+
+Supports
+- Sprite-based graphics
+- Sound
+- Level progression
+- Highscore
+- Various buffs
+
+# Usage
+Just import to any Java IDE (e.g. IntelliJ) and run.
+
+# Acknowledgements
+Over 90% of the code was written by me, some of the UI and sound code was written by Nicolas Acero.

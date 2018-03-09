@@ -27,8 +27,7 @@ import eea.engine.event.basicevents.MouseEnteredEvent;
 
 /**
  * The state for display of the current highscore.
- * 
- * @author Nicolas Acero
+ *
  */
 public class ScoreViewState extends PacmanGameState {
 	
