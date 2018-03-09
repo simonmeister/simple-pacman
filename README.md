@@ -1,4 +1,11 @@
+<p align="center">
+  <img src="screenshots/game_1.png" width="320"/>
+  <img src="screenshots/game_2.png" width="320"/>
+</p>
+
+
 # Pacman
+
 Simple implementation of the classical Pacman game written in java. 
 
 Supports
