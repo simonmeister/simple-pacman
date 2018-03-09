@@ -16,7 +16,7 @@ Supports
 - Various buffs
 
 # Usage
-Just import to any Java IDE (e.g. IntelliJ) and run.
+Just import to any Java IDE (e.g. IntelliJ) and run. Control by pressind and holding up/down/left/right arrow keys.
 
 # Acknowledgements
 Over 80% of the code was written by me, some of the UI and sound code was written by [Nicolas Acero](https://github.com/Nsteel).
