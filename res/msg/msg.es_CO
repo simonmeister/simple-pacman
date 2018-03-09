@@ -1,0 +1,16 @@
+newGame=Iniciar nuevo juego
+loadGame=Cargar juego
+highscore=Highscore
+exit=Salir
+points=Puntos
+name=NOMBRE
+score=PUNTAJE
+language=Idioma:\n
+options=Opciones
+saveOK=El juego fue guardado exitosamente!
+gameOver=Game Over!\nEscribe tu nombre:
+resumeImg=res/pictures/ui/buttons/es_CO/resume.png
+saveImg=res/pictures/ui/buttons/es_CO/save.png
+restartImg=res/pictures/ui/buttons/es_CO/restart.png
+exitImg=res/pictures/ui/buttons/es_CO/exit.png
+about=Acerca del juego

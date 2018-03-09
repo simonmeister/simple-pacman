@@ -1,0 +1,16 @@
+newGame=Neues Spiel starten
+loadGame=Spiel laden
+highscore=Highscore
+exit=Beenden
+points=Punkte
+name=NAME
+score=PUNKTE
+language=Sprache:\n
+options=Einstellungen
+gameOver=Game Over!\nTippen Sie bitte Ihren Namen ein:
+saveOK=Das Spiel wurde erfolgreich gespeichert!
+resumeImg=res/pictures/ui/buttons/de_DE/resume.png
+saveImg=res/pictures/ui/buttons/de_DE/save.png
+restartImg=res/pictures/ui/buttons/de_DE/restart.png
+exitImg=res/pictures/ui/buttons/de_DE/exit.png
+about= \u00dcber das Spiel
