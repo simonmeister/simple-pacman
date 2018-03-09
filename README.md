@@ -19,4 +19,4 @@ Supports
 Just import to any Java IDE (e.g. IntelliJ) and run.
 
 # Acknowledgements
-Over 90% of the code was written by me, some of the UI and sound code was written by Nicolas Acero.
+Over 80% of the code was written by me, some of the UI and sound code was written by [Nicolas Acero](https://github.com/Nsteel).
