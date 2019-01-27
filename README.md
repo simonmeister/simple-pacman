@@ -21,4 +21,4 @@ Just import into any Java IDE (e.g. IntelliJ) and run
 Control by pressing and holding up/down/left/right arrow keys.
 
 # Acknowledgements
-Over 80% of the code was written by me, some of the UI and sound code was written by [Nicolas Acero](https://github.com/Nsteel).
+Some of the code was written by [Nicolas Acero](https://github.com/Nsteel).
